@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(0, 0, 0);
+}
+.container{
+    background-color:darkslateblue;
+    color:white;
+    position:relative;
+}
+.card-content, #card-action{
+    background-color:darkslateblue;
+    border:none;
+}
+.card-content #btn, .card-content #btn1{
+  margin-left:10px;
+}
+h5{
+    text-align:center;
+}
+#collection, #collection li{
+    background-color: black;
+    color:white;
+    border-color:darkslateblue ;
+}
+p{
+    position:absolute;
+    left:37%;
+    font-size: 14px;
+    margin:0.5;
+}
